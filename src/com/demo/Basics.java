@@ -64,6 +64,10 @@ public class Basics {
 		 		System.out.println(updatedAdd);
 		 		Assert.assertEquals(updatedAdd, newAdd);
 		 		
+		 		//git test below
+		 		
+		 		System.out.println("new line1");
+		 		System.out.println("new line2");
 		 		
 		 		
 		 		
