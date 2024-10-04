@@ -33,4 +33,9 @@ public class Library {
 	{
 		System.out.println("develop branch");
 	}
+	
+	public void test2()
+	{
+		System.out.println("develop branch");
+	}
 }
